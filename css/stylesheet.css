@@ -1,0 +1,16 @@
+.header{
+    padding: 10px;
+}
+.logoHeader{
+    padding-top: 25px;
+}
+.contactsArea{
+    padding-top: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.iconSize{
+    font-size: 18px;
+    padding-right: 10px;
+}
